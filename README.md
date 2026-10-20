@@ -6,9 +6,9 @@
 센서·제어기의 동작을 이해하고, **통신과 제어로 기능을 구현하며 실기기에서 통합을 확인합니다.**  
 ROS 2 주행·관제 연동부터 STM32 센서 처리, Arduino 제어, PLC·HMI까지 경험했습니다.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-프로젝트_보기-1C2B3F?style=for-the-badge)](https://hyaline-52.github.io/)
-[![Print](https://img.shields.io/badge/A4-PDF_저장-365D77?style=for-the-badge)](https://hyaline-52.github.io/print.html)
-[![Email](https://img.shields.io/badge/EMAIL-연락하기-7D4450?style=for-the-badge)](mailto:eunbi52robot@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-프로젝트_보기-1A3A2E?style=for-the-badge&labelColor=273C32)](https://hyaline-52.github.io/)
+[![Print](https://img.shields.io/badge/A4-PDF_저장-315342?style=for-the-badge&labelColor=273C32)](https://hyaline-52.github.io/print.html)
+[![Email](https://img.shields.io/badge/EMAIL-연락하기-273C32?style=for-the-badge&labelColor=273C32)](mailto:eunbi52robot@gmail.com)
 
 ## 01 / Selected Projects
 
@@ -111,23 +111,23 @@ AI·UI·모터 프레임워크는 팀 전체 구성입니다. Motor12 제어 전
 ## 02 / Tech & Experience
 
 **Languages**  
-![C](https://img.shields.io/badge/C-1C2B3F?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-365D77?style=flat-square&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-1A3A2E?style=flat-square&logo=c&logoColor=white&labelColor=273C32) ![Python](https://img.shields.io/badge/Python-315342?style=flat-square&logo=python&logoColor=white&labelColor=273C32)  
 <sub>센서 펌웨어와 하드웨어 프로세스의 처리 로직 구현</sub>
 
 **Robotics**  
-![ROS 2 Jazzy](https://img.shields.io/badge/ROS%202%20Jazzy-1C2B3F?style=flat-square&logo=ros&logoColor=white) ![Nav2](https://img.shields.io/badge/Nav2-365D77?style=flat-square) ![AMCL](https://img.shields.io/badge/AMCL-365D77?style=flat-square) ![AprilTag](https://img.shields.io/badge/AprilTag-365D77?style=flat-square)  
+![ROS 2 Jazzy](https://img.shields.io/badge/ROS%202%20Jazzy-1A3A2E?style=flat-square&logo=ros&logoColor=white&labelColor=273C32) ![Nav2](https://img.shields.io/badge/Nav2-315342?style=flat-square&labelColor=273C32) ![AMCL](https://img.shields.io/badge/AMCL-315342?style=flat-square&labelColor=273C32) ![AprilTag](https://img.shields.io/badge/AprilTag-315342?style=flat-square&labelColor=273C32)  
 <sub>주행 설정 · 위치 보조 · 관제 Action·Status 연동</sub>
 
 **Embedded & Control**  
-![STM32](https://img.shields.io/badge/STM32-1C2B3F?style=flat-square&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-365D77?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-7D4450?style=flat-square&logo=arduino&logoColor=white) ![PLC · HMI](https://img.shields.io/badge/PLC%20%C2%B7%20HMI-7D4450?style=flat-square)  
+![STM32](https://img.shields.io/badge/STM32-1A3A2E?style=flat-square&logo=stmicroelectronics&logoColor=white&labelColor=273C32) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-315342?style=flat-square&labelColor=273C32) ![Arduino](https://img.shields.io/badge/Arduino-273C32?style=flat-square&logo=arduino&logoColor=white&labelColor=273C32) ![PLC · HMI](https://img.shields.io/badge/PLC%20%C2%B7%20HMI-273C32?style=flat-square&labelColor=273C32)  
 <sub>센서 판단 · Task·Queue · LED·부저·서보 · 설비 운전 기능</sub>
 
 **Communication**  
-![CAN](https://img.shields.io/badge/CAN-365D77?style=flat-square) ![Serial](https://img.shields.io/badge/Serial-365D77?style=flat-square) ![ROS 2 Interfaces](https://img.shields.io/badge/ROS%202%20Interfaces-1C2B3F?style=flat-square&logo=ros&logoColor=white)  
+![CAN](https://img.shields.io/badge/CAN-315342?style=flat-square&labelColor=273C32) ![Serial](https://img.shields.io/badge/Serial-315342?style=flat-square&labelColor=273C32) ![ROS 2 Interfaces](https://img.shields.io/badge/ROS%202%20Interfaces-1A3A2E?style=flat-square&logo=ros&logoColor=white&labelColor=273C32)  
 <sub>장치 명령·상태 전달과 로봇 작업 인계 인터페이스</sub>
 
 **Application & Tools**  
-![PyQt](https://img.shields.io/badge/PyQt-365D77?style=flat-square&logo=qt&logoColor=white) ![GX Works2](https://img.shields.io/badge/GX%20Works2-7D4450?style=flat-square) ![GT Designer3](https://img.shields.io/badge/GT%20Designer3-7D4450?style=flat-square)  
+![PyQt](https://img.shields.io/badge/PyQt-315342?style=flat-square&logo=qt&logoColor=white&labelColor=273C32) ![GX Works2](https://img.shields.io/badge/GX%20Works2-273C32?style=flat-square&labelColor=273C32) ![GT Designer3](https://img.shields.io/badge/GT%20Designer3-273C32?style=flat-square&labelColor=273C32)  
 <sub>UI 설정을 하드웨어 동작으로 연결 · 래더와 운전 화면 구성</sub>
 
 ## 03 / Background
