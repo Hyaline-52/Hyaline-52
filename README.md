@@ -10,7 +10,34 @@ ROS 2 주행·관제 연동부터 STM32 센서 처리, Arduino 제어, PLC·HMI�
 [![Print](https://img.shields.io/badge/A4-PDF_저장-315342?style=for-the-badge&labelColor=273C32)](https://hyaline-52.github.io/print.html)
 [![Email](https://img.shields.io/badge/EMAIL-연락하기-273C32?style=for-the-badge&labelColor=273C32)](mailto:eunbi52robot@gmail.com)
 
-## 01 / Selected Projects
+## 01 / Tech & Experience
+
+### Languages
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="26" alt="C"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343" height="26" alt="Python">  
+센서 펌웨어와 하드웨어 프로세스의 처리 로직 구현
+
+### Robotics
+
+<img src="https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Jazzy"> <img src="https://img.shields.io/badge/Nav2-168AAD?style=flat-square" height="26" alt="Nav2"> <img src="https://img.shields.io/badge/AMCL-2A9D8F?style=flat-square" height="26" alt="AMCL"> <img src="https://img.shields.io/badge/AprilTag-315342?style=flat-square&labelColor=273C32" height="26" alt="AprilTag">  
+주행 설정 · 위치 보조 · 관제 Action·Status 연동
+
+### Embedded & Control
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" height="26" alt="STM32"> <img src="https://img.shields.io/badge/FreeRTOS-78A942?style=flat-square" height="26" alt="FreeRTOS"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" height="26" alt="Arduino"> <img src="https://img.shields.io/badge/PLC%20%C2%B7%20HMI-009999?style=flat-square" height="26" alt="PLC · HMI">  
+센서 판단 · Task·Queue · LED·부저·서보 · 설비 운전 기능
+
+### Communication
+
+<img src="https://img.shields.io/badge/CAN-009688?style=flat-square" height="26" alt="CAN"> <img src="https://img.shields.io/badge/Serial-315342?style=flat-square&labelColor=273C32" height="26" alt="Serial"> <img src="https://img.shields.io/badge/ROS%202%20Interfaces-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Interfaces">  
+장치 명령·상태 전달과 로봇 작업 인계 인터페이스
+
+### Application & Tools
+
+<img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=black" height="26" alt="PyQt"> <img src="https://img.shields.io/badge/GX_Works2-E60012?style=flat-square" height="26" alt="GX Works2"> <img src="https://img.shields.io/badge/GT_Designer3-0078D6?style=flat-square" height="26" alt="GT Designer3">  
+UI 설정을 하드웨어 동작으로 연결 · 래더와 운전 화면 구성
+
+## 02 / Selected Projects
 
 ### MANYFARM · 파프리카 다중 로봇 협업
 `2026.09 ~ 진행 중` · `7인 팀` · **Featured project**
@@ -115,33 +142,6 @@ CAN 지연·센서 정확도는 확인된 성능 수치로 제시하지 않습�
 기본 시퀀스·Teaching·비상정지는 타 파트이며, 팀 HMI 전체를 단독 작성한 것으로 표현하지 않습니다. 스토퍼 간섭 조치의 개인 수행 범위와 수정 후 결과는 확인 필요입니다.
 
 </details>
-
-## 02 / Tech & Experience
-
-### Languages
-
-<img src="https://img.shields.io/badge/C-1A3A2E?style=flat-square&logo=c&logoColor=white&labelColor=273C32" height="26" alt="C"> <img src="https://img.shields.io/badge/Python-315342?style=flat-square&logo=python&logoColor=white&labelColor=273C32" height="26" alt="Python">  
-센서 펌웨어와 하드웨어 프로세스의 처리 로직 구현
-
-### Robotics
-
-<img src="https://img.shields.io/badge/ROS%202%20Jazzy-1A3A2E?style=flat-square&logo=ros&logoColor=white&labelColor=273C32" height="26" alt="ROS 2 Jazzy"> <img src="https://img.shields.io/badge/Nav2-315342?style=flat-square&labelColor=273C32" height="26" alt="Nav2"> <img src="https://img.shields.io/badge/AMCL-315342?style=flat-square&labelColor=273C32" height="26" alt="AMCL"> <img src="https://img.shields.io/badge/AprilTag-315342?style=flat-square&labelColor=273C32" height="26" alt="AprilTag">  
-주행 설정 · 위치 보조 · 관제 Action·Status 연동
-
-### Embedded & Control
-
-<img src="https://img.shields.io/badge/STM32-1A3A2E?style=flat-square&logo=stmicroelectronics&logoColor=white&labelColor=273C32" height="26" alt="STM32"> <img src="https://img.shields.io/badge/FreeRTOS-315342?style=flat-square&labelColor=273C32" height="26" alt="FreeRTOS"> <img src="https://img.shields.io/badge/Arduino-273C32?style=flat-square&logo=arduino&logoColor=white&labelColor=273C32" height="26" alt="Arduino"> <img src="https://img.shields.io/badge/PLC%20%C2%B7%20HMI-273C32?style=flat-square&labelColor=273C32" height="26" alt="PLC · HMI">  
-센서 판단 · Task·Queue · LED·부저·서보 · 설비 운전 기능
-
-### Communication
-
-<img src="https://img.shields.io/badge/CAN-315342?style=flat-square&labelColor=273C32" height="26" alt="CAN"> <img src="https://img.shields.io/badge/Serial-315342?style=flat-square&labelColor=273C32" height="26" alt="Serial"> <img src="https://img.shields.io/badge/ROS%202%20Interfaces-1A3A2E?style=flat-square&logo=ros&logoColor=white&labelColor=273C32" height="26" alt="ROS 2 Interfaces">  
-장치 명령·상태 전달과 로봇 작업 인계 인터페이스
-
-### Application & Tools
-
-<img src="https://img.shields.io/badge/PyQt-315342?style=flat-square&logo=qt&logoColor=white&labelColor=273C32" height="26" alt="PyQt"> <img src="https://img.shields.io/badge/GX%20Works2-273C32?style=flat-square&labelColor=273C32" height="26" alt="GX Works2"> <img src="https://img.shields.io/badge/GT%20Designer3-273C32?style=flat-square&labelColor=273C32" height="26" alt="GT Designer3">  
-UI 설정을 하드웨어 동작으로 연결 · 래더와 운전 화면 구성
 
 ## 03 / Background
 
