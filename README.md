@@ -14,28 +14,31 @@ ROS 2 주행·관제 연동부터 STM32 센서 처리, Arduino 제어, PLC·HMI�
 
 ### Languages
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="26" alt="C"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343" height="26" alt="Python">  
-센서 펌웨어와 하드웨어 프로세스의 처리 로직 구현
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="26" alt="C"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343" height="26" alt="Python"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" height="26" alt="Bash">
 
-### Robotics
+### Robotics & Navigation
 
-<img src="https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Jazzy"> <img src="https://img.shields.io/badge/Nav2-168AAD?style=flat-square" height="26" alt="Nav2"> <img src="https://img.shields.io/badge/AMCL-2A9D8F?style=flat-square" height="26" alt="AMCL"> <img src="https://img.shields.io/badge/AprilTag-315342?style=flat-square&labelColor=273C32" height="26" alt="AprilTag">  
-주행 설정 · 위치 보조 · 관제 Action·Status 연동
+<img src="https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Jazzy"> <img src="https://img.shields.io/badge/Nav2-168AAD?style=flat-square" height="26" alt="Nav2"> <img src="https://img.shields.io/badge/AMCL-2A9D8F?style=flat-square" height="26" alt="AMCL"> <img src="https://img.shields.io/badge/AprilTag-315342?style=flat-square&labelColor=273C32" height="26" alt="AprilTag"> <img src="https://img.shields.io/badge/TF2-6C5CE7?style=flat-square" height="26" alt="TF2"> <img src="https://img.shields.io/badge/RViz2-22314E?style=flat-square" height="26" alt="RViz2"> <img src="https://img.shields.io/badge/SLAM%20Toolbox-22314E?style=flat-square" height="26" alt="SLAM Toolbox">
 
-### Embedded & Control
+### Embedded & Hardware
 
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" height="26" alt="STM32"> <img src="https://img.shields.io/badge/FreeRTOS-78A942?style=flat-square" height="26" alt="FreeRTOS"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" height="26" alt="Arduino"> <img src="https://img.shields.io/badge/PLC%20%C2%B7%20HMI-009999?style=flat-square" height="26" alt="PLC · HMI">  
-센서 판단 · Task·Queue · LED·부저·서보 · 설비 운전 기능
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" height="26" alt="STM32"> <img src="https://img.shields.io/badge/STM32_HAL-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" height="26" alt="STM32 HAL"> <img src="https://img.shields.io/badge/FreeRTOS-78A942?style=flat-square" height="26" alt="FreeRTOS"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" height="26" alt="Arduino"> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" height="26" alt="Raspberry Pi">
 
 ### Communication
 
-<img src="https://img.shields.io/badge/CAN-009688?style=flat-square" height="26" alt="CAN"> <img src="https://img.shields.io/badge/Serial-315342?style=flat-square&labelColor=273C32" height="26" alt="Serial"> <img src="https://img.shields.io/badge/ROS%202%20Interfaces-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Interfaces">  
-장치 명령·상태 전달과 로봇 작업 인계 인터페이스
+<img src="https://img.shields.io/badge/CAN-009688?style=flat-square" height="26" alt="CAN"> <img src="https://img.shields.io/badge/Serial-315342?style=flat-square&labelColor=273C32" height="26" alt="Serial"> <img src="https://img.shields.io/badge/UART-007ACC?style=flat-square" height="26" alt="UART"> <img src="https://img.shields.io/badge/ROS%202%20Interfaces-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Interfaces">
 
-### Application & Tools
+### Application & Automation
 
-<img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=black" height="26" alt="PyQt"> <img src="https://img.shields.io/badge/GX_Works2-E60012?style=flat-square" height="26" alt="GX Works2"> <img src="https://img.shields.io/badge/GT_Designer3-0078D6?style=flat-square" height="26" alt="GT Designer3">  
-UI 설정을 하드웨어 동작으로 연결 · 래더와 운전 화면 구성
+<img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=black" height="26" alt="PyQt"> <img src="https://img.shields.io/badge/PLC%20%C2%B7%20HMI-009999?style=flat-square" height="26" alt="PLC · HMI"> <img src="https://img.shields.io/badge/GX_Works2-E60012?style=flat-square" height="26" alt="GX Works2"> <img src="https://img.shields.io/badge/GT_Designer3-0078D6?style=flat-square" height="26" alt="GT Designer3">
+
+### Development Environment
+
+<img src="https://img.shields.io/badge/Ubuntu%20%2F%20Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white" height="26" alt="Ubuntu / Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="26" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="26" alt="GitHub">
+
+### Collaboration Tools
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="26" alt="Jira"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" height="26" alt="Confluence"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square" height="26" alt="Slack"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="26" alt="Notion">
 
 ## 02 / Selected Projects
 
