@@ -10,7 +10,7 @@ ROS 2 주행·관제 연동부터 STM32 센서 처리, Arduino 제어, PLC·HMI�
 [![Print](https://img.shields.io/badge/A4-PDF_저장-315342?style=for-the-badge&labelColor=273C32)](https://hyaline-52.github.io/print.html)
 [![Email](https://img.shields.io/badge/EMAIL-연락하기-273C32?style=for-the-badge&labelColor=273C32)](mailto:eunbi52robot@gmail.com)
 
-## 01 / Tech & Experience
+## 🛠️ Tech & Experience
 
 ### Languages
 
@@ -40,7 +40,7 @@ ROS 2 주행·관제 연동부터 STM32 센서 처리, Arduino 제어, PLC·HMI�
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="26" alt="Jira"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" height="26" alt="Confluence"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square" height="26" alt="Slack"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="26" alt="Notion">
 
-## 02 / Selected Projects
+## 🚀 Selected Projects
 
 ### MANYFARM · 스마트팜 다중 로봇 협업
 
@@ -126,7 +126,7 @@ Mitsubishi PLC·HMI를 활용한 소재 이송·재질 판별·적재 자동화 
 
 [Repository](https://github.com/Hyaline-52/PLC-Automated-Warehouse) · [Web Portfolio](https://hyaline-52.github.io/plc.html)
 
-## 03 / Background
+## 📚 Background
 
 **학력**
 - **한양사이버대학교** · 경영정보학과 / AI비즈니스전공 · 2023.02
