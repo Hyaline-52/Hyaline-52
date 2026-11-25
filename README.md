@@ -1,16 +1,24 @@
 <p align="center">
-  <picture><source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg"><img src="assets/profile-banner.svg" width="100%" alt="최은비 · Robotics & System Integration — 하드웨어, 통신, 제어를 연결하는 개발 경험"></picture>
+  <img src="assets/profile-banner.gif" width="100%" alt="Welcome to Eunbi’s GitHub · Robotics · Embedded · System Integration">
 </p>
 
-### 로봇 하드웨어와 상위 소프트웨어를 연결합니다.
-센서·제어기의 동작을 이해하고, **통신과 제어로 기능을 구현하며 실기기에서 통합을 확인합니다.**  
-ROS 2 주행·관제 연동부터 STM32 센서 처리, Arduino 제어, PLC·HMI까지 경험했습니다.
+<p align="center">
+  <a href="https://hyaline-52.github.io/"><img src="https://img.shields.io/badge/Portfolio-프로젝트_보기-164E63?style=for-the-badge&amp;labelColor=374151" alt="포트폴리오 보기"></a>
+  <a href="https://hyaline-52.github.io/print.html"><img src="https://img.shields.io/badge/PDF-저장-164E63?style=for-the-badge&amp;labelColor=374151" alt="PDF 저장"></a>
+  <a href="mailto:eunbi52robot@gmail.com"><img src="https://img.shields.io/badge/Email-연락하기-4B5563?style=for-the-badge&amp;labelColor=374151" alt="이메일 연락"></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-프로젝트_보기-1A3A2E?style=for-the-badge&labelColor=273C32)](https://hyaline-52.github.io/)
-[![Print](https://img.shields.io/badge/A4-PDF_저장-315342?style=for-the-badge&labelColor=273C32)](https://hyaline-52.github.io/print.html)
-[![Email](https://img.shields.io/badge/EMAIL-연락하기-273C32?style=for-the-badge&labelColor=273C32)](mailto:eunbi52robot@gmail.com)
+## 👋 About Me
 
-## 🛠️ Tech & Experience
+로봇·임베디드·산업 자동화 프로젝트에서 장치 제어와 소프트웨어 연동을 개발하고 있습니다.
+
+- 💻 **Focus**: 장치 제어·통신 기능 구현과 시스템 통합
+- 🧩 **Identity**: 센서 입력과 장치 상태를 이해하고, 소프트웨어의 명령을 실제 동작으로 연결하는 개발자
+- 🔧 **Interests**: 로봇 주행·위치 보정, 상태 기반 제어 로직, 하드웨어·소프트웨어 연동
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 ### Languages
 
@@ -18,7 +26,7 @@ ROS 2 주행·관제 연동부터 STM32 센서 처리, Arduino 제어, PLC·HMI�
 
 ### Robotics & Navigation
 
-<img src="https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Jazzy"> <img src="https://img.shields.io/badge/Nav2-168AAD?style=flat-square" height="26" alt="Nav2"> <img src="https://img.shields.io/badge/AMCL-2A9D8F?style=flat-square" height="26" alt="AMCL"> <img src="https://img.shields.io/badge/AprilTag-315342?style=flat-square&labelColor=273C32" height="26" alt="AprilTag"> <img src="https://img.shields.io/badge/TF2-6C5CE7?style=flat-square" height="26" alt="TF2"> <img src="https://img.shields.io/badge/RViz2-22314E?style=flat-square" height="26" alt="RViz2"> <img src="https://img.shields.io/badge/SLAM%20Toolbox-22314E?style=flat-square" height="26" alt="SLAM Toolbox">
+<img src="https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Jazzy"> <img src="https://img.shields.io/badge/Nav2-168AAD?style=flat-square" height="26" alt="Nav2"> <img src="https://img.shields.io/badge/AMCL-2A9D8F?style=flat-square" height="26" alt="AMCL"> <img src="https://img.shields.io/badge/AprilTag-164E63?style=flat-square&labelColor=374151" height="26" alt="AprilTag"> <img src="https://img.shields.io/badge/TF2-6C5CE7?style=flat-square" height="26" alt="TF2"> <img src="https://img.shields.io/badge/RViz2-22314E?style=flat-square" height="26" alt="RViz2"> <img src="https://img.shields.io/badge/SLAM%20Toolbox-22314E?style=flat-square" height="26" alt="SLAM Toolbox">
 
 ### Embedded & Hardware
 
@@ -26,7 +34,7 @@ ROS 2 주행·관제 연동부터 STM32 센서 처리, Arduino 제어, PLC·HMI�
 
 ### Communication
 
-<img src="https://img.shields.io/badge/CAN-009688?style=flat-square" height="26" alt="CAN"> <img src="https://img.shields.io/badge/Serial-315342?style=flat-square&labelColor=273C32" height="26" alt="Serial"> <img src="https://img.shields.io/badge/UART-007ACC?style=flat-square" height="26" alt="UART"> <img src="https://img.shields.io/badge/ROS%202%20Interfaces-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Interfaces">
+<img src="https://img.shields.io/badge/CAN-009688?style=flat-square" height="26" alt="CAN"> <img src="https://img.shields.io/badge/Serial-164E63?style=flat-square&labelColor=374151" height="26" alt="Serial"> <img src="https://img.shields.io/badge/UART-007ACC?style=flat-square" height="26" alt="UART"> <img src="https://img.shields.io/badge/ROS%202%20Interfaces-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Interfaces">
 
 ### Application & Automation
 
@@ -40,109 +48,111 @@ ROS 2 주행·관제 연동부터 STM32 센서 처리, Arduino 제어, PLC·HMI�
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="26" alt="Jira"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" height="26" alt="Confluence"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square" height="26" alt="Slack"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="26" alt="Notion">
 
-## 🚀 Selected Projects
+---
 
-### MANYFARM · 스마트팜 다중 로봇 협업
+## 🚀 Featured Projects
 
-예찰·수확·운송·선별을 관제로 연결하는 스마트팜 협업 시스템
+### 🤖 [ManyFarm | 다중 로봇 협업 스마트팜](https://github.com/Hyaline-52/MANYFARM-Robot-Integration)
 
-**Period** · 2026.09 ~ 진행 중  
-**Team** · 7인 팀  
-**Role** · 수확로봇 주행·위치 보조·통신 연동, 요구사항·FSM·인터페이스 설계 및 PM
+> 예찰·수확·운송·선별을 관제로 연결하는 다중 로봇 협업 시스템
+
+- **Period**: 2026.09–11
+- **Team**: 7명
+- **Role**: 수확로봇 주행·위치 보정·관제 및 Jetson 연동·인계·복귀 통합 / PM
 
 **Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343" height="26" alt="Python"> <img src="https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Jazzy"> <img src="https://img.shields.io/badge/Nav2-168AAD?style=flat-square" height="26" alt="Nav2"> <img src="https://img.shields.io/badge/AMCL-2A9D8F?style=flat-square" height="26" alt="AMCL"> <img src="https://img.shields.io/badge/AprilTag-315342?style=flat-square&labelColor=273C32" height="26" alt="AprilTag">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343" height="26" alt="Python"> <img src="https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white" height="26" alt="ROS 2 Jazzy"> <img src="https://img.shields.io/badge/Nav2-168AAD?style=flat-square" height="26" alt="Nav2"> <img src="https://img.shields.io/badge/AMCL-2A9D8F?style=flat-square" height="26" alt="AMCL"> <img src="https://img.shields.io/badge/AprilTag-164E63?style=flat-square&labelColor=374151" height="26" alt="AprilTag">
 
 **Highlights**
-- Vic Pinky 수확로봇의 Nav2 지도·경로·제어 설정 및 실물 주행 문제 분석·조정
-- AMCL·AprilTag 기반 선택적 위치 보조 및 관제 Action·Status 통신 연동
-- 수확·도킹·인계 인터페이스 설계와 모의 장치 기반 통신 검증
+- Nav2 주행 설정과 차체 충돌 조건 조정, AprilTag 관측 시각 보정 및 AMCL 연동
+- 관제·Jetson 요청과 인계·복귀 동작 통합, 초기 공통 구조·예찰 설계 공동 참여
 
-*전체 실물 공정의 연속 통합 성공은 검증되지 않았습니다.*
-
-[Repository](https://github.com/Hyaline-52/MANYFARM-Robot-Integration) · [Web Portfolio](https://hyaline-52.github.io/manyfarm.html)
+[📂 Repository](https://github.com/Hyaline-52/MANYFARM-Robot-Integration) · [🤖 프로젝트 상세](https://hyaline-52.github.io/manyfarm.html)
 
 ---
 
-### POCO · 자세 코칭에서 모니터암 제어로
+### 🖥️ [POCO | AI 자세 코칭 모니터암](https://github.com/Hyaline-52/POCO-VisionPoseCoach)
 
-사용자 자세 분석과 하드웨어 알림에서 모니터암 자동 제어로 확장한 프로젝트
+> 사용자 자세를 분석해 피드백하고, 정상 자세에서 모니터 위치와 수평을 조절하는 시스템
 
-**Period** · 초기 2026.05 / 고도화 2026.08 ~ 2026.09  
-**Team** · 각 4인 팀  
-**Role** · 초기 Arduino 펌웨어·Serial·카메라 보정, 고도화 모터 제어 연결·설정·알림 통합
+- **Period**: 초기 2026.05 / 고도화 2026.08–09
+- **Team**: 4명
+- **Role**: 초기 Arduino 펌웨어·Serial·알림·카메라 보정 / 고도화 Motor1·2 제어 연결·조건 처리·하드웨어 통합
 
 **Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343" height="26" alt="Python"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" height="26" alt="Arduino"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" height="26" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=black" height="26" alt="PyQt"> <img src="https://img.shields.io/badge/Serial-315342?style=flat-square&labelColor=273C32" height="26" alt="Serial">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343" height="26" alt="Python"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" height="26" alt="Arduino"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" height="26" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=black" height="26" alt="PyQt"> <img src="https://img.shields.io/badge/Serial-164E63?style=flat-square&labelColor=374151" height="26" alt="Serial">
 
 **Highlights**
-- Raspberry Pi–Arduino Serial 명령 처리 및 LED·부저 알림 구현
-- IMU 기반 카메라 서보 제어와 보정 시 `attach/detach` 처리 수정
-- 기존 Motor1·2 추종 제어 연결·조건 처리 및 PyQt 설정·부저 연동
+- Serial 명령을 LED·부저와 카메라 서보 동작으로 연결하고 보정 완료·재시작 조건 처리
+- 공동 개발한 Motor1·2의 제어 연결과 실행 조건 처리, PyQt 설정·새 Pose 프레임의 알림 연동
 
-[Repository](https://github.com/Hyaline-52/POCO-VisionPoseCoach) · [Web Portfolio](https://hyaline-52.github.io/poco.html)
+🏅 **임베디드 소프트웨어 경진대회 결선 진출** · 팀 프로젝트 성과
+
+[📂 Repository](https://github.com/Hyaline-52/POCO-VisionPoseCoach) · [🤖 프로젝트 상세](https://hyaline-52.github.io/poco.html)
 
 ---
 
-### KickCAN · STM32 센서 노드와 CAN 통신
+### 🔌 [KICK-CAN | STM32 분산 임베디드 RC카](https://github.com/Hyaline-52/KickCAN-Node1)
 
-STM32 센서 노드에서 주변 환경을 판단하고 CAN으로 상태·명령을 전달하는 분산 RC카 시스템
+> 무선 Controller와 CAN 차량 네트워크를 연결해 주행·센서 감지·상태 표시를 구현한 시스템
 
-**Period** · 2026.07 개발 일정 기준  
-**Team** · 4인 팀  
-**Role** · STM32 Node 1 센서 판단·FreeRTOS Task·QueueCAN·CAN 통신
+- **Period**: 2026.07
+- **Team**: 4명
+- **Role**: Node 1 센서 판단·FreeRTOS Task·Queue 구성·CAN 송수신
 
 **Stack**
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="26" alt="C"> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" height="26" alt="STM32"> <img src="https://img.shields.io/badge/STM32_HAL-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" height="26" alt="STM32 HAL"> <img src="https://img.shields.io/badge/FreeRTOS-78A942?style=flat-square" height="26" alt="FreeRTOS"> <img src="https://img.shields.io/badge/CAN-009688?style=flat-square" height="26" alt="CAN">
 
 **Highlights**
-- 초음파·온도·조도 입력에 따른 경고 단계와 점등 요청 판단
-- 센서별 FreeRTOS Task → QueueCAN → CAN 송신 Task 구성
-- Main Node 주행 상태 수신에 따른 전·후방 초음파 처리 및 CLEAR 송신 경로 수정
+- 초음파·온도·조도 입력을 상태로 변환하고 센서 Task와 CAN 송신 Task를 Queue로 연결
+- Main Node 주행 상태 수신, 방향별 초음파 처리 및 Echo 완료·CLEAR 전달 경로 수정
 
-[Repository](https://github.com/Hyaline-52/KickCAN-Node1) · [Web Portfolio](https://hyaline-52.github.io/kickcan.html)
+[📂 Repository](https://github.com/Hyaline-52/KickCAN-Node1) · [🤖 프로젝트 상세](https://hyaline-52.github.io/kickcan.html)
 
 ---
 
-### PLC · 자동화 공정 제어와 HMI
+### ⚙️ [PLC | 자동화 공정 제어 및 HMI](https://github.com/Hyaline-52/PLC-Automated-Warehouse)
 
-Mitsubishi PLC·HMI를 활용한 소재 이송·재질 판별·적재 자동화 공정
+> 소재 공급·이송·재질 판별·적재를 자동화하고, HMI에서 별도 운전과 상태를 관리하는 공정
 
-**Period** · 2026.06 발표 (개발 기간 미확정)  
-**Team** · 2인 팀  
-**Role** · 창고 비움 기능, 작업 시간 측정 관련 래더, HMI 구성·상태 표시
+- **Period**: 2026.06
+- **Team**: 2명
+- **Role**: 창고 비움·TTMR 작업 시간 측정·HMI 구성·코드 통합
 
 **Stack**
 
 <img src="https://img.shields.io/badge/PLC%20%C2%B7%20HMI-009999?style=flat-square" height="26" alt="PLC · HMI"> <img src="https://img.shields.io/badge/GX_Works2-E60012?style=flat-square" height="26" alt="GX Works2"> <img src="https://img.shields.io/badge/GT_Designer3-0078D6?style=flat-square" height="26" alt="GT Designer3">
 
 **Highlights**
-- 기본 자동 공정과 구분되는 창고 비움 운전 기능 구성
-- 작업 시간 측정 관련 래더 구현
-- HMI 운전 화면·상태 표시와 PLC–HMI 기능 연결
+- 자동 적재와 구분되는 창고 비움 기능, 작업 시간 측정과 HMI 운전·상태 표시 구성
+- 코드 통합 후 시퀀스 간 실행 조건 정리와 창고 비움의 스토퍼 동작 순서 수정
 
-[Repository](https://github.com/Hyaline-52/PLC-Automated-Warehouse) · [Web Portfolio](https://hyaline-52.github.io/plc.html)
+[📂 Repository](https://github.com/Hyaline-52/PLC-Automated-Warehouse) · [🤖 프로젝트 상세](https://hyaline-52.github.io/plc.html)
+
+---
 
 ## 📚 Background
 
-**학력**
-- **한양사이버대학교** · 경영정보학과 / AI비즈니스전공 · 2023.02
-- **한경국립대학교** · 전기전자제어공학과 · 2019.02
-- **오산대학교** · 전자과 · 2016.02
+### 교육
 
-**교육**
-- **서울기술교육센터** · AI 융합 로봇 SW 개발자 · 2026.04 ~ 2026.11 수료 예정
-- **휴먼교육센터 수원** · 디지털컨버젼스기반 JAVA 개발자 양성과정 · 2020.02 ~ 2020.08 수료
+- **대한상공회의소 서울기술교육센터** · AI 융합 로봇 SW 개발자 과정 · 2026.04–11 수료
+- **휴먼교육센터 수원** · 디지털컨버전스 기반 JAVA 개발자 양성과정 · 2020.02–08 수료
 
-**자격 · 성과**
+### 학력
+
+- **한양사이버대학교** · 경영정보학과 AI비즈니스전공
+- **한경국립대학교** · 전기전자제어공학과
+- **오산대학교** · 전자과
+
+### 자격 · 수상 · 주요 성과
+
 - 정보처리기사
 - 2014 스마트 로봇 경진대회 부문기술상
 - 2026 임베디드 소프트웨어 경진대회 **결선 진출**
 
 ---
 
-**장치 연동·통신·제어 기능 구현과 실기기 통합 시험에 관심이 있습니다.**  
-[웹 포트폴리오](https://hyaline-52.github.io/) · [A4 / PDF 저장](https://hyaline-52.github.io/print.html) · [eunbi52robot@gmail.com](mailto:eunbi52robot@gmail.com)
+[Portfolio](https://hyaline-52.github.io/) · [PDF 저장](https://hyaline-52.github.io/print.html) · [Email](mailto:eunbi52robot@gmail.com)
